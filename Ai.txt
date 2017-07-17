@@ -1,0 +1,10 @@
+public class Ai
+{
+public Ai()
+{
+
+}
+//haha troll
+
+
+}
